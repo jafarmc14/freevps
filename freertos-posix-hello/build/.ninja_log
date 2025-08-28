@@ -1,0 +1,13 @@
+# ninja log v5
+1	318	1756368374361648826	CMakeFiles/app.dir/FreeRTOS-Kernel/list.c.o	ed7c5a6e4e251195
+1	324	1756368374367648826	CMakeFiles/app.dir/main.c.o	4928c3812c0bc9bf
+324	340	1756368374383648825	CMakeFiles/app.dir/FreeRTOS-Kernel/croutine.c.o	97fec4698762fd21
+3	426	1756368374468648822	CMakeFiles/app.dir/FreeRTOS-Kernel/event_groups.c.o	e65e3acb6992f0b2
+319	683	1756368374726648812	CMakeFiles/app.dir/FreeRTOS-Kernel/stream_buffer.c.o	fdfb6403ae97f412
+2	687	1756368374729648812	CMakeFiles/app.dir/FreeRTOS-Kernel/timers.c.o	62e9a0fe9e36f0ab
+1	700	1756368374743648811	CMakeFiles/app.dir/FreeRTOS-Kernel/queue.c.o	7bb905d3d6dee788
+2	712	1756368374755648811	CMakeFiles/app.dir/FreeRTOS-Kernel/tasks.c.o	a279ae35c867903d
+683	720	1756368374763648811	CMakeFiles/app.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o	42c2f85631a77ac9
+426	818	1756368374861648807	CMakeFiles/app.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o	ca99323988c9ee4f
+340	909	1756368374952648803	CMakeFiles/app.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.o	fc6c0c578aa05bb9
+910	931	1756368374974648803	app	f0e5ef475d010dab
